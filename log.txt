@@ -1,0 +1,46 @@
+2023-12-20 22:12:21 INFO ====== WebDriver manager ======
+2023-12-20 22:12:22 INFO Get LATEST chromedriver version for google-chrome
+2023-12-20 22:12:22 INFO Get LATEST chromedriver version for google-chrome
+2023-12-20 22:12:22 INFO Driver [C:\Users\BorAlex\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-20 22:12:23 INFO Test1 starting
+2023-12-20 22:12:24 INFO Send AlAlex to element //*[@id="login"]/div[1]/label/input
+2023-12-20 22:12:24 INFO Send 0e989663f3 to element //*[@id="login"]/div[2]/label/input
+2023-12-20 22:12:24 INFO Click login button
+2023-12-20 22:12:27 INFO Starting select Hello, user
+2023-12-20 22:12:33 INFO ====== WebDriver manager ======
+2023-12-20 22:12:34 INFO Get LATEST chromedriver version for google-chrome
+2023-12-20 22:12:34 INFO Get LATEST chromedriver version for google-chrome
+2023-12-20 22:12:34 INFO Driver [C:\Users\BorAlex\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-20 22:12:35 INFO Test2 starting
+2023-12-20 22:12:36 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2023-12-20 22:12:36 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2023-12-20 22:12:36 INFO Click login button
+2023-12-20 22:12:37 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-12-20 22:12:43 INFO ====== WebDriver manager ======
+2023-12-20 22:12:44 INFO Get LATEST chromedriver version for google-chrome
+2023-12-20 22:12:44 INFO Get LATEST chromedriver version for google-chrome
+2023-12-20 22:12:44 INFO Driver [C:\Users\BorAlex\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-20 22:12:45 INFO Test3 starting
+2023-12-20 22:12:46 INFO Send AlAlex to element //*[@id="login"]/div[1]/label/input
+2023-12-20 22:12:46 INFO Send 0e989663f3 to element //*[@id="login"]/div[2]/label/input
+2023-12-20 22:12:46 INFO Click login button
+2023-12-20 22:12:46 INFO Click contact button
+2023-12-20 22:12:47 INFO Send Alexandr to element //*[@id="contact"]/div[1]/label/input
+2023-12-20 22:12:48 INFO Send alexandr@mail.ru to element //*[@id="contact"]/div[2]/label/input
+2023-12-20 22:12:48 INFO Send Content from contact to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-12-20 22:12:48 INFO Click create contact_us button
+2023-12-20 22:12:51 INFO Starting alert
+2023-12-20 22:12:57 INFO ====== WebDriver manager ======
+2023-12-20 22:12:58 INFO Get LATEST chromedriver version for google-chrome
+2023-12-20 22:12:58 INFO Get LATEST chromedriver version for google-chrome
+2023-12-20 22:12:58 INFO Driver [C:\Users\BorAlex\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-20 22:12:59 INFO Test 4 starting
+2023-12-20 22:13:00 INFO Send AlAlex to element //*[@id="login"]/div[1]/label/input
+2023-12-20 22:13:00 INFO Send 0e989663f3 to element //*[@id="login"]/div[2]/label/input
+2023-12-20 22:13:00 INFO Click login button
+2023-12-20 22:13:00 INFO Click create post button
+2023-12-20 22:13:04 INFO Send "NewPost" to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+2023-12-20 22:13:04 INFO Send "NewPostDescription" to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+2023-12-20 22:13:04 INFO Send "NewPostContent" to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+2023-12-20 22:13:04 INFO Click create post button
+2023-12-20 22:13:08 INFO We find text NewPost in error field //*[@id="app"]/main/div/div[3]/div[1]/a[1]/h2
