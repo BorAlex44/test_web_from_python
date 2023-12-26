@@ -1,0 +1,15 @@
+address: https://test-stand.gb.ru
+browser: 'chrome'
+login: AlAlex
+password: 0e989663f3
+name_to_contact: Alexandr
+email_to_contact: alexandr@mail.ru
+sleep_time: 3
+new_post_title: NewPost
+new_post_description: NewPostDescription
+new_post_content: NewPostContent
+url: https://test-stand.gb.ru/api/posts
+path: https://test-stand.gb.ru/gateway/login
+id_check: 92110
+title: post for homework 2
+about_page_font_size: 32px
